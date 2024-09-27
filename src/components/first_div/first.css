@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&family=Ultra&display=swap");
+h1 {
+  font-family: "Poppins", sans-serif;
+  width: 250px;
+  scale: 2;
+  margin-left: 200px;
+  margin-top: 50px;
+  font-weight: bolder;
+}
+.para{
+  font-family: 'Roboto', sans-serif;
+margin-left: 13%;
+font-size: 20px;
+margin-top: 30px;
+}
+
+.hs {
+  margin-top: 80px;
+}
+
+span {
+  color: red;
+}
+
+.first_div {
+  display: flex;
+  width: 100vw;
+  height: 85vh;
+  justify-content: space-around;
+}
+.aimg {
+  width: 40vw;
+  margin-top: 20%;
+  transform: scale(0.9);
+  border: 3px solid blanchedalmond;
+  border-radius: 10px;
+  transition: 1s ease-out;
+  border: 2px solid rgb(91, 33, 33);
+}
+.aimg:hover {
+  box-shadow: 2px 0px 25px 4px black;
+  box-shadow: 10px 10px #897373;
+  transform:scale(0.95);
+  transition: 0.5s;
+  box-shadow: 20px 20px rgb(193, 193, 193);
+}
+p {
+  width: 40vw;
+}
+.link{
+color: inherit;
+text-decoration: inherit;
+}
+.arrow{
+  width: 180px;
+  height: 40px;
+  box-shadow: 10px 10px #897373;
+  background-color: #704F4F;
+  transform: translate(90px,20px);
+ transition: .3s ease-out;
+  border-radius: 5px;
+  font-weight: bolder;
+  font-family: 'Google Sans Text', Arial, Helvetica, sans-serif;    font-size: 20px;
+
+}
+.arrow:hover{
+  transform: translate(95px,25px);
+  box-shadow: none;
+}

@@ -1,0 +1,44 @@
+footer{
+    height: 40vh;
+    display: flex;
+    justify-content:center ;
+    background-color: #704F4F;
+    
+}
+.footer-copyright{
+    height: 10vh;
+    position: absolute;
+    margin: 180px;
+    margin-right: 50px;
+}
+.footer-legal-info{
+    position: absolute;
+    margin-top: 220px;
+    transform: translateX(-5vh);
+}
+
+.legal_heading ul li a{
+    line-height: 20px;
+}
+.footer-contact-info{
+    position: absolute;
+    transform: translate(-400px,20px);
+}
+.contact-heading{
+    font-size: 25px;
+    
+}
+.abt{
+    transform: translate(30vw,3vh);
+}
+.connect{
+    font-size: 25px;  
+     margin-top: 0px;
+}
+.footer-social-media{
+    position: absolute;
+    transform: translate(80vh,10vh);
+}
+.footer-social-media ul li a i{
+    line-height: 30px;
+}

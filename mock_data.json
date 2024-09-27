@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Abhay Singh",
+        "aadhaar_number": "377492186300",
+        "mobile_number": "9891538415",
+        "address": "123, MG Road, Mumbai, Maharashtra"
+    },
+    {
+        "name": "Hem",
+        "aadhaar_number": "2345-6789-1234",
+        "mobile_number": "87654 32109",
+        "address": "456, MG Road, Mumbai, Maharashtra"
+    },
+    {
+        "name": "Vinayak",
+        "aadhaar_number": "3456-7890-2345",
+        "mobile_number": "9711883995",
+        "address": "123, MG Road, Mumbai, Maharashtra"
+    },
+    {
+        "name": "Kavish Iyer",
+        "aadhaar_number": "4567-8901-3456",
+        "mobile_number": "65432 10987",
+        "address": "789, Marine Drive, Mumbai, Maharashtra"
+        
+    },
+    {
+        "name": "Shivam Gupta",
+        "aadhaar_number": "5678-9012-4567",
+        "mobile_number": "54321 09876",
+        "address": "101, Bandra, Mumbai, Maharashtra"
+    },
+    {
+        "name": "Nisarg Verma",
+        "aadhaar_number": "6789-0123-5678",
+        "mobile_number": "43210 98765",
+        "address": "456, MG Road, Mumbai, Maharashtra"
+    },
+    {
+        "name": "Cheeku Joshi",
+        "aadhaar_number": "7890-1234-6789",
+        "mobile_number": "32109 87654",
+        "address": "789, Marine Drive, Mumbai, Maharashtra"
+    },
+    {
+        "name": "Rohan Nair",
+        "aadhaar_number": "8901-2345-7890",
+        "mobile_number": "21098 76543",
+        "address": "202, Worli, Mumbai, Maharashtra"
+    },
+    {
+        "name": "Arjun Desai",
+        "aadhaar_number": "9012-3456-8901",
+        "mobile_number": "10987 65432",
+        "address": "303, Andheri, Mumbai, Maharashtra"
+    },
+    {
+        "name": "Kiaan Reddy",
+        "aadhaar_number": "0123-4567-9012",
+        "mobile_number": "09876 54321",
+        "address": "404, Dadar, Mumbai, Maharashtra"
+    }
+]
